@@ -61,6 +61,6 @@ Rv.render(Todo, {}, dom);
 ```
 
 
-> just for fun!
+> **just for fun!**
 
-> please don't use in production, or you'll be fired!
+> **please don't use in production, or you'll be fired!**
