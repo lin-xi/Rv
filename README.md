@@ -1,6 +1,6 @@
 # Rv
 
-a JSX render library width regex
+a JSX render library with regex
 
 ### Todo Components
 ```
